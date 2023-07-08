@@ -1,0 +1,10 @@
+.scroll-container{
+    background-color: rgba(0, 0, 0, 0.699);
+    overflow: auto;
+    padding: 10px;
+    white-space: nowrap;
+}
+
+.scroll-container img{
+    padding: 10px;
+}
